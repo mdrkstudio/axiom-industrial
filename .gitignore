@@ -1,0 +1,16 @@
+node_modules/
+.next/
+out/
+dist/
+build/
+*.tsbuildinfo
+next-env.d.ts
+*.log
+.env*
+.DS_Store
+.vercel/
+.playwright-cli/
+imports/
+exports/
+audit/
+.tools/
