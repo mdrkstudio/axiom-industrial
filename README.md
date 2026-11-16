@@ -6,7 +6,7 @@
 
 [Посмотреть кейс и видеопроход](https://mdrkstudio.ru/cases/axiom-industrial)
 
-![AXIOM: общий план](docs/overview.png)
+![AXIOM: движение камеры вокруг промышленного объекта](docs/demo.gif)
 
 ## Возможности
 
