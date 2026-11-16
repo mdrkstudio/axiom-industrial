@@ -6,7 +6,10 @@
 
 [Посмотреть кейс и видеопроход](https://mdrkstudio.ru/cases/axiom-industrial)
 
-![AXIOM: движение камеры вокруг промышленного объекта](docs/demo.gif)
+<picture>
+  <source media="(prefers-reduced-motion: no-preference)" srcset="docs/demo.gif">
+  <img src="docs/demo-poster.png" alt="AXIOM: движение камеры вокруг промышленного объекта" width="640" height="360">
+</picture>
 
 ## Возможности
 
